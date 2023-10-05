@@ -78,11 +78,11 @@ It will host our website. Name this repo as your repository followed by github.i
 
 ::: columns
 ::: {.column width="40%"}
-![](NHSR_Pycon_images/03_Step_02_new%20github_repo_%20website.png)
+![](NHSR_Pycon_images/03_Step_02_new_github_repo_ website.png)
 :::
 
 ::: {.column width="60%"}
-![](NHSR_Pycon_images/04_Step_02_New_%20repo_%20website_name.png)
+![](NHSR_Pycon_images/04_Step_02_New_repo_website_name.png)
 
 ![](NHSR_Pycon_images/05_Step_02_website_repo_created.png)
 :::
@@ -92,7 +92,7 @@ It will host our website. Name this repo as your repository followed by github.i
 
 ::: columns
 ::: {.column width="40%"}
-![](NHSR_Pycon_images/06_Step_03_create_%20folder_01.png)
+![](NHSR_Pycon_images/06_Step_03_create_ folder_01.png)
 
 -   Previously created local folder named "Build_new_website"
 
@@ -102,7 +102,8 @@ It will host our website. Name this repo as your repository followed by github.i
 :::
 
 ::: {.column width="60%"}
-![](NHSR_Pycon_images/07_Step_03_create%20project_01.png) ![](NHSR_Pycon_images/08_Step_03_create%20project_02.png)
+![](NHSR_Pycon_images/07_Step_03_create_project_01.png)
+![](NHSR_Pycon_images/08_Step_03_create_project_02.png)
 :::
 :::
 
@@ -112,7 +113,7 @@ We setup the Quarto website using the **repository name** we created at the star
 
 ::: columns
 ::: {.column width="40%"}
-![](NHSR_Pycon_images/09_Step_05_Create_quarto_website%2001.png)
+![](NHSR_Pycon_images/09_Step_05_Create_quarto_website_01.png)
 :::
 
 ::: {.column width="60%"}
@@ -132,7 +133,9 @@ Click on "Create Project" to open the Quarto Website project. Website files incl
 
 ::: columns
 ::: {.column width="40%"}
-![](NHSR_Pycon_images/11_Step_05_cuarto_website_files_01.png) It that will be populated with the following Quarto related files: - quarto.yml
+![](NHSR_Pycon_images/11_Step_05_cuarto_website_files_01.png)
+
+It that will be populated with the following Quarto related files: - quarto.yml
 
 -   .gitignore
 
@@ -146,7 +149,8 @@ Click on "Create Project" to open the Quarto Website project. Website files incl
 :::
 
 ::: {.column width="60%"}
-![](NHSR_Pycon_images/12_Step_05_cuarto_website_files_02.png) ![](NHSR_Pycon_images/13_Step_05_cuarto_website_files_03.png)
+![](NHSR_Pycon_images/12_Step_05_cuarto_website_files_02.png) 
+![](NHSR_Pycon_images/13_Step_05_cuarto_website_files_03.png)
 :::
 :::
 
@@ -196,7 +200,7 @@ In Rstudio click File \> New File \> Quarto document. Name this new Quarto file 
 
 Modify \_quarto.yml file content to include new quarto file `resources.qmd` as a new website section.
 
-![](NHSR_Pycon_images/19_Step_09_resources_tab.png)
+![](NHSR_Pycon_images/19_Step_09_resources_tab.png) 
 
 Click on save to keep the changes introduced to this \_quarto.yml file.
 
@@ -226,7 +230,7 @@ From RStudio, push all your website files to the `GitHub` to update your website
 :::
 
 ::: {.column width="60%"}
-![](NHSR_Pycon_images/23_Step_11_push_website_files_to_github_RSTUDIO_01.png)
+![](NHSR_Pycon_images/23_Step_11_push_website_files_to_github_RSTUDIO_01.png) 
 :::
 :::
 
@@ -238,7 +242,7 @@ Now our website is up and running, Access it from GitHub website URL
 
 ::: columns
 ::: {.column width="40%"}
-![](NHSR_Pycon_images/24_Step_12_check_github_website_online_01.png)
+![](NHSR_Pycon_images/24_Step_12_check_github_website_online_01.png) 
 :::
 
 ::: {.column width="60%"}
