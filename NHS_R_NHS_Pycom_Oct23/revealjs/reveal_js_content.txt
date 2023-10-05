@@ -1,0 +1,1 @@
+Rendered file revealjs includes two sub-folders (dist and plugin) included this sub folders below this revealjs folder
