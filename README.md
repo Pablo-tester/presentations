@@ -8,7 +8,7 @@ All these presentations have been created using Quarto and Git with GitHub, addi
 
 ![image](https://github.com/Pablo-tester/presentations/assets/140793883/bead8c4d-fc97-4d32-a95e-102c69e1217b)
 
-After all changes were applied and several commits done, all presentation changes are eincorporated to the main branch, using a pull request becasue the main branch is protected.
+After all changes were applied and several commits done, all presentation changes are added to the main branch, using a pull request due to main branch protection setup.
 
 ![image](https://github.com/Pablo-tester/presentations/assets/140793883/7fb9faaa-f03d-4cfd-a130-90106d7fee92)
 
